@@ -1,0 +1,13 @@
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+    background-color: #07a4ff;
+}
+.navbar-brand {float:none;}
+
+.navbar-header h1 {
+    color: #b0ee77 !important;
+    font-weight: 900;
+}
